@@ -26,7 +26,7 @@ I'm Noor Fahad, a Full Stack Developer with a passion for creating innovative so
 - **Version Control:** Git, GitHub
 - **Containerization:** Docker
 - **API Development:** Postman, Swagger
-- **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Travis CI, CircleCI
+- **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions
 - **Testing:** Jest, Mocha, Chai, Cypress
 - **Documentation:** Swagger UI, Markdown
 
@@ -34,30 +34,7 @@ I'm Noor Fahad, a Full Stack Developer with a passion for creating innovative so
 - **Cloud Platforms:** AWS (Amazon Web Services), Google Cloud Platform (GCP)
 - **Serverless:** AWS Lambda, Firebase Functions
 - **Container Orchestration:** Kubernetes
-- **Hosting Platforms:** Heroku, Netlify, Vercel
-
-
-## Projects
-
-🛠️ **ERP System for Water Manufacturer Company**
-   - A comprehensive ERP system that manages vehicle routes, jar status, invoices, sales team management, and more.
-   - Technologies: PHP (CodeIgniter), MySQL, JavaScript
-
-🛒 **Krishak - E-commerce Application**
-   - An e-commerce platform built with Node.js, TypeScript, Firestore, Sequelize, and Vue.js.
-   - Paytm integration for seamless transactions.
-
-🛒 **AamCart - E-commerce Application**
-   - Another e-commerce platform developed using Node.js, TypeScript, Firestore, Sequelize, and Vue.js.
-   - Integrated with Paytm for secure payments.
-
-💼 **Subscription App**
-   - Web-based application enabling vendors to create custom subscription plans and manage teams.
-   - Technologies: Node.js, TypeScript, MySQL, Prisma, React.js, Nest.js, Material UI, Stripe
-
-🚐 **Route Line - RV Booking Web App**
-   - A booking platform for RVs with subscription-based plans, condition-based booking, and payment integration using Stripe.
-   - Technologies: Node.js, TypeScript, React.js, MySQL
+- **Hosting Platforms:** Heroku, Netlify, Vercel, Firebase
 
 ## Get in Touch
 
