@@ -1,44 +1,78 @@
-# Hello, World! 👋
+# 👋 Hello, World! I'm Noor Fahad
 
-I'm Noor Fahad, a Full Stack Developer with a passion for creating innovative software solutions and exploring new technologies. Welcome to my GitHub profile!
+🚀 **Full Stack Developer | Project Manager | Cloud Engineer**  
+Passionate about building scalable web applications, managing high-performing teams, and creating impactful digital solutions.
 
-## About Me
+---
 
-🚀 I have over six years of experience in delivering high-quality software solutions and leading cross-functional teams.
-🌱 I'm constantly learning and experimenting with new technologies to stay updated and enhance my skills.
-💻 I specialize in frontend and backend development using a wide range of technologies, including HTML, CSS, JavaScript, TypeScript, PHP, Node.js, Firebase, and more.
-🔍 I'm passionate about problem-solving, clean code, and creating user-friendly interfaces that deliver exceptional user experiences.
-🎓 Currently, I'm exploring Swift UI and iOS app development to expand my knowledge and expertise.
+## 👨‍💻 About Me
 
-## 🔧 Technologies & Tools
+- 🧠 **7+ years of experience** designing, developing, and managing full-stack web applications.  
+- 💼 Skilled in **frontend & backend development**, **project planning**, and **team leadership**.  
+- ⚙️ Experienced with **Google Cloud Platform**, **Firebase**, **Node.js**, **PHP (CodeIgniter)**, and **modern JavaScript frameworks**.  
+- 💳 Integrated multiple **payment and shipping gateways** like Stripe, Paytm, and PhonePe.  
+- 📱 Developed **cross-platform mobile apps** using **React Native** and **Swift (iOS)**.  
+- 🌱 Currently exploring advanced **cloud automation** and **AI integrations** (e.g., ChatGPT APIs).  
 
-### Frontend
-- **Frameworks/Libraries:** React, Next.js, Vue.js
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **UI Frameworks:** Bootstrap, Tailwind CSS, Material-UI
+---
 
-### Backend
-- **Frameworks:** Node.js, Express.js, Nest.js
-- **Databases:** MySQL, MongoDB, Firebase Firestore
-- **ORM/ODM:** Sequelize, Mongoose
+## 🛠️ Tech Stack
 
-### DevOps & Tools
-- **Version Control:** Git, GitHub
-- **Containerization:** Docker
-- **API Development:** Postman, Swagger
-- **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions
-- **Testing:** Jest, Mocha, Chai, Cypress
-- **Documentation:** Swagger UI, Markdown
+### 💻 Frontend
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Frameworks/Libraries:** React.js, Vue.js, React Native  
+- **UI Tools:** Bootstrap, Sass, Material UI, Figma, Adobe XD  
 
-### Cloud & Deployment
-- **Cloud Platforms:** AWS (Amazon Web Services), Google Cloud Platform (GCP)
-- **Serverless:** AWS Lambda, Firebase Functions
-- **Container Orchestration:** Kubernetes
-- **Hosting Platforms:** Heroku, Netlify, Vercel, Firebase
+### ⚙️ Backend
+- **Languages & Frameworks:** Node.js (Express, Nest.js), PHP (CodeIgniter) 
+- **Databases:** MySQL, Firebase Realtime DB, Firestore, NoSQL  
+- **Testing:** Jest, Cypress  
 
-## Get in Touch
+### ☁️ Cloud & DevOps
+- **Platforms:** Google Cloud Platform (GCP), Firebase  
+- **Serverless:** Cloud Functions, Firebase Functions  
+- **CI/CD:** GitHub Actions, Cloud Build  
+- **Version Control:** Git, GitHub  
 
-📫 Feel free to reach out to me at noorlovesindia@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/imnoorfahad/).
-💬 Let's collaborate on exciting projects or discuss tech ideas and opportunities!
+### 💳 Integrations
+- **Payment Gateways:** Stripe, Paytm, PhonePe , Razorpay
+- **Messaging & Automation:** WhatsApp Business API, ChatGPT, Twilio  
 
-## Let's Build Something Awesome! 🚀
+---
+
+## 🚀 Featured Projects
+
+- **💧 ERP Solution (Water Manufacturing)** — Route management, invoicing, sales & client tracking  
+  *Tech:* CodeIgniter (PHP), MySQL  
+  *Role:* Project Manager & Developer  
+
+- **🛒 AamCart** — Full e-commerce ecosystem (web + iOS + Android)  
+  *Tech:* Vue.js, Firebase, Paytm PG, GCP  
+  *Role:* Project Manager & Frontend Developer  
+
+- **📅 Subscription App** — Custom vendor subscription management system  
+  *Tech:* Node.js, React.js, Nest.js, Stripe, Prisma  
+  *Role:* Full Stack Developer & Project Manager  
+
+- **🚐 Route Line** — RV booking platform with subscription modules  
+  *Tech:* Node.js, React.js, MySQL, Stripe  
+  *Role:* Full Stack Developer & Project Manager  
+
+- **💬 WA Messaging (ChatGPT)** — WhatsApp Business automation (bulk messages, templates, chatbots)  
+  *Tech:* Node.js, React, Firebase, GCP, PhonePe  
+  *Role:* Backend & Frontend Developer  
+
+---
+
+## 📫 Get in Touch
+
+📍 **Location:** Greater Noida, India  
+📧 **Email:** [noorlovesindia@gmail.com](mailto:noorlovesindia@gmail.com)  
+💻 **GitHub:** [github.com/imnoorfahad](https://github.com/imnoorfahad)  
+💬 **Stack Overflow:** [Noor Fahad](https://stackoverflow.com/users/17002336/noor-fahad)  
+🌐 **Portfolio:** [aamcart.com](https://aamcart.com) | [subscription.app](https://subscription.app) | [routeline-staging.web.app](https://routeline-staging.web.app) | [app.wamessaging.com](https://app.wamessaging.com)
+
+---
+
+## ✨ “Code. Create. Collaborate.”  
+Let’s build something awesome together! 🚀
