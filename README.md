@@ -1,40 +1,40 @@
 # 👋 Hello, World! I'm Noor Fahad
 
-🚀 **Senior Full Stack Developer | Project Manager | Cloud Engineer**
-I design, build, and scale production-grade web & mobile applications while leading teams and owning delivery end‑to‑end.
+🚀 **Senior Full Stack Developer | Project Manager | Cloud & AI Engineer**
+I design, build, and scale production-grade web, mobile, and AI-powered applications while leading teams and owning delivery end-to-end.
 
----
 
 ## 👨‍💻 Professional Summary
 
-I’m a results‑driven **Senior Full Stack Developer** with **8+ years of hands‑on experience** across frontend, backend, cloud, and delivery management. I’ve led multiple products from idea to production, worked closely with founders and stakeholders, and built systems used by real businesses at scale.
+I’m a results-driven **Senior Full Stack Developer** with **9+ years of hands-on experience** across frontend, backend, cloud, and modern AI systems. I’ve led multiple products from idea to production, worked closely with founders and stakeholders, and built systems used by real businesses at scale.
 
-My strength lies in **owning the full lifecycle** — architecture decisions, development, integrations, deployments, performance, and continuous improvement.
+My strength lies in **owning the full lifecycle** — from architecture and development to AI integrations, deployments, scaling, and continuous optimization.
 
----
+I now actively focus on **AI-driven product development**, helping businesses automate workflows, enhance user experiences, and unlock new capabilities using modern AI technologies.
+
 
 ## 🎯 Core Strengths
 
-* End‑to‑end product development (MVP → Scale)
+* End-to-end product development (MVP → Scale)
 * Full stack architecture & API design
+* AI integration & automation (LLMs, agents, workflows)
 * Project & delivery management
-* Cloud‑native & serverless systems
-* Payment, messaging & third‑party integrations
-* Mentoring developers & cross‑functional collaboration
+* Cloud-native & serverless systems
+* Payment, messaging & third-party integrations
+* Mentoring developers & cross-functional collaboration
 
----
 
 ## 🧠 Experience Highlights
 
-* 🧠 **8+ years** building and managing full‑stack web & mobile applications
-* 💼 Strong experience in **frontend, backend, and system architecture**
-* 👥 Led small to mid‑sized dev teams and coordinated with designers & QA
-* ⚙️ Extensive work with **Google Cloud Platform (GCP)** and **Firebase**
-* 💳 Integrated complex **payment flows & subscriptions** (India + global)
-* 📦 Built **ERP, SaaS, e‑commerce, and automation platforms**
-* 🤖 Implemented **AI & automation workflows** using ChatGPT APIs
+* 🧠 **9+ years** building and managing full-stack web & mobile applications
+* 🤖 Hands-on experience with **AI integrations, LLM APIs, and automation systems**
+* 💼 Strong expertise in **frontend, backend, and scalable system architecture**
+* 👥 Led small to mid-sized dev teams and collaborated with product, design & QA
+* ☁️ Extensive work with **Google Cloud Platform (GCP)** and **Firebase**
+* 💳 Implemented complex **payment systems & subscription models** (India + global)
+* 📦 Built **ERP, SaaS, e-commerce, and automation platforms**
+* ⚡ Developed **AI-powered tools, chatbots, and business automation workflows**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,6 +44,7 @@ My strength lies in **owning the full lifecycle** — architecture decisions, de
 * **Frameworks/Libraries:** React.js, Vue.js, React Native, Next.js
 * **UI & Design:** Bootstrap, Tailwind, Sass, Material UI, Figma, Adobe XD
 
+
 ### ⚙️ Backend
 
 * **Node.js:** Express, NestJS
@@ -51,6 +52,7 @@ My strength lies in **owning the full lifecycle** — architecture decisions, de
 * **Databases:** MySQL, PostgreSQL, Firebase Realtime DB, Firestore, NoSQL
 * **ORMs & Tools:** Prisma, Sequelize
 * **Testing:** Jest, Cypress
+
 
 ### ☁️ Cloud & DevOps
 
@@ -60,35 +62,35 @@ My strength lies in **owning the full lifecycle** — architecture decisions, de
 * **Auth & Security:** Firebase Auth, JWT, OAuth
 * **Version Control:** Git, GitHub
 
-### 💳 Integrations & Automation
 
+### 🤖 AI, Integrations & Automation
+
+* **AI & LLMs:** OpenAI (ChatGPT APIs), AI agents, prompt engineering
+* **Automation:** Workflow automation, AI-powered business tools
+* **Chatbots:** Conversational AI, WhatsApp bots, customer support automation
 * **Payment Gateways:** Stripe, Razorpay, Paytm, PhonePe
-* **Messaging & Automation:** WhatsApp Business API, Twilio
-* **AI:** OpenAI / ChatGPT APIs
+* **Messaging:** WhatsApp Business API, Twilio
 
----
 
 ## 📈 What I’m Currently Exploring
 
-* Advanced **cloud automation & scalability patterns**
-* **AI‑powered agents** for business workflows
-* Product thinking & roadmap planning
-* System design & performance optimization
+* Advanced **AI agents & autonomous workflows**
+* **Generative AI applications** for SaaS products
+* Scalable **cloud architecture & distributed systems**
+* Product thinking, **roadmap strategy & growth engineering**
+* Performance optimization & system design at scale
 
----
 
 ## 📫 Get in Touch
 
-- 📍 **Location:** Greater Noida, India  
-- 📧 **Email:** [noorlovesindia@gmail.com](mailto:noorlovesindia@gmail.com)  
-- 💻 **GitHub:** https://github.com/imnoorfahad  
-- 💬 **Stack Overflow:** https://stackoverflow.com/users/17002336/noor-fahad  
+* 📍 **Location:** Greater Noida, India
+* 📧 **Email:** [noorlovesindia@gmail.com](mailto:noorlovesindia@gmail.com)
+* 💻 **GitHub:** [https://github.com/imnoorfahad](https://github.com/imnoorfahad)
+* 💬 **Stack Overflow:** [https://stackoverflow.com/users/17002336/noor-fahad](https://stackoverflow.com/users/17002336/noor-fahad)
 
 ---
 
 ## ✨ Philosophy
 
-> **Code. Create. Collaborate.**
-> I believe great products are built at the intersection of clean code, clear communication, and continuous learning.
-
-Let’s build something impactful 🚀
+> **Code. Create. Automate. Scale.**
+> I believe great products are built at the intersection of clean code, intelligent automation, and continuous innovation.
